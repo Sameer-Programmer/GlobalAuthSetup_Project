@@ -100,14 +100,4 @@ GlobalAuthSetup_Project/
 
 Screenshots are captured during test execution and saved in the `ScreenShots/` directory. These include full-page screenshots and element-specific screenshots, useful for debugging and visual regression testing.
 
-## Contributing
 
-Contributions are welcome! Please feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the ISC License. See the `LICENSE` file for details (if available).
-
-## Contact
-
-For any questions or suggestions, please open an issue in the repository.
