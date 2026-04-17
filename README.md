@@ -1,16 +1,20 @@
 # GlobalAuthSetup_Project
 
+[![Playwright](https://img.shields.io/badge/Playwright-447F3C?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
 ## Overview
 
 This project demonstrates a robust and efficient approach to handling global authentication in Playwright end-to-end tests. By leveraging Playwright's `storageState` mechanism, it ensures that authentication is performed once and then reused across multiple test files, significantly speeding up test execution and simplifying test setup. The project is configured to work with the [Tutorials Ninja Demo](https://tutorialsninja.com/demo/) website, showcasing a practical application of global authentication for e-commerce testing scenarios.
 
 ## Features
 
--   **Global Authentication**: Implements a single authentication flow (`auth.setup.ts`) that logs into the application and saves the session state.
--   **Session Persistence**: Utilizes Playwright's `storageState` to persist the authenticated session, allowing subsequent tests to run without re-authenticating.
--   **Playwright Test Runner**: Configured with `playwright.config.ts` for parallel test execution, retries, and comprehensive reporting.
--   **Example Tests**: Includes example test files (`Test1.spec.ts`, `Test2.spec.ts`) that demonstrate how to use the persisted session for various testing scenarios, such as searching for products and capturing screenshots.
--   **Screenshot Capture**: Automatically captures screenshots on test failure and specific element screenshots for visual verification.
+-   🔑 **Global Authentication**: Implements a single authentication flow (`auth.setup.ts`) that logs into the application and saves the session state.
+-   💾 **Session Persistence**: Utilizes Playwright's `storageState` to persist the authenticated session, allowing subsequent tests to run without re-authenticating.
+-   🚀 **Playwright Test Runner**: Configured with `playwright.config.ts` for parallel test execution, retries, and comprehensive reporting.
+-   🧪 **Example Tests**: Includes example test files (`Test1.spec.ts`, `Test2.spec.ts`) that demonstrate how to use the persisted session for various testing scenarios, such as searching for products and capturing screenshots.
+-   📸 **Screenshot Capture**: Automatically captures screenshots on test failure and specific element screenshots for visual verification.
 
 ## Technologies Used
 
