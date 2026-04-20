@@ -1,0 +1,42 @@
+**PATIENT RECEIPT LETTER**
+
+Date: 17-Apr-2026
+
+To,
+Mr. Ravi Kumar
+#12, 3rd Main Road,
+Whitefield, Bangalore – 560066
+
+Subject: Payment Receipt Confirmation
+
+Dear Mr. Ravi Kumar,
+
+This is to acknowledge that we have received payment for the medical services provided.
+
+**Patient Details:**
+
+* Patient Name: Ravi Kumar
+* Patient ID: PT-10245
+* Age/Gender: 34 / Male
+* Contact Number: +91 9876543210
+
+**Payment Details:**
+
+* Receipt Number: RCPT-55678
+* Date of Payment: 17-Apr-2026
+* Payment Mode: UPI
+* Amount Paid: ₹2,500
+* Purpose: General Consultation and Blood Test
+
+We confirm that the above-mentioned amount has been successfully received. Thank you for choosing our services.
+
+If you have any questions or require further assistance, please feel free to contact us.
+
+Wishing you good health.
+
+Sincerely,
+Sunrise Health Clinic
+Dr. Anjali Mehta
+(Signature)
+Contact: +91 9123456780
+Email: [support@sunriseclinic.com](mailto:support@sunriseclinic.com)

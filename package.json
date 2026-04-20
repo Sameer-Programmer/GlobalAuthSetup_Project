@@ -10,6 +10,12 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.59.1",
+    "@types/fs-extra": "^11.0.4",
+    "@types/luxon": "^3.7.1",
     "@types/node": "^25.5.2"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.4",
+    "luxon": "^3.7.2"
   }
 }

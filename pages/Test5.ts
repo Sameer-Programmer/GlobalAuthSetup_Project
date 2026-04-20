@@ -27,6 +27,8 @@ for(let i =0 ; i<input.length; i++){
 	let alphabetscheck = /[a-zA-Z]/.test(ch)
 	let numberscheck =/[0-9]/.test(ch)
 	let specialcharacterCheck = /[^a-zA-Z0-9]/.test(ch)
+
+	
 	if(alphabetscheck){
 		alphabetscontainer = alphabetscontainer+ch;
 		alphabetcount = alphabetcount+1

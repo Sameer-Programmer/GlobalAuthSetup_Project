@@ -1,0 +1,36 @@
+ 
+   How to Find Multiple elements 
+   - locator()-- method brings the list of all matching Locators 
+   - wih index we can perform the actions
+   -.all()--> Methods Collect all Locatorsin a Array Of Locators
+
+
+   How To Use Explicit Waits 
+   - waitFor() Specfic State 
+   "waitFor() is used to wait for an element to reach a specific state like
+    attached,
+    visible, 
+    hidden, 
+    or detached. However, Playwright auto-waits for most actions, so explicit waits are used only in special scenarios like loaders or dynamic content."
+
+
+    “No, waitFor() only ensures the element is attached to DOM. For interaction readiness, we should use state: 'visible' or rely on Playwright’s auto-waiting.”
+
+    what is webkit in Playwright 
+
+    webkit is a browser engine like Chromium na dFireFox Engines
+    used by safari developed by Apple 
+
+    To Test How Oyur App Behaves with Applie 
+    to catch te bugs 
+
+
+    How does Handle waiting Mechnaism in Playwright 
+
+    Play has Auto waiting 
+    in confif we can set the time out 3000
+    Be visible
+    be enabled
+    be stable 
+
+    waitFor
