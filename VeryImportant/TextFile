@@ -1,0 +1,3 @@
+setTimeout(() => { debugger; }, 3000);
+Control+Shift+I
+Control+Shift+P ==>Focus =>EmulateFocusPage
